@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "drive#file",
+    "id": "1PquMqBQfMZ9-BceolVLVGOAzlFtFtEIv",
+    "name": "Folder Duy 123",
+    "mimeType": "application/vnd.google-apps.folder"
+  },
+  {
+    "kind": "drive#file",
+    "id": "14pVFMe7FEH6etgJcX3hMxtUJRdE1UaB-",
+    "name": "Folder Share",
+    "mimeType": "application/vnd.google-apps.folder"
+  },
+  {
+    "kind": "drive#file",
+    "id": "120qBSCri6UhM2_7Ronhu93SkyH1x7hT7",
+    "name": "Folder Main",
+    "mimeType": "application/vnd.google-apps.folder"
+  },
+  {
+    "kind": "drive#file",
+    "id": "1mGDCuDQHwjhjy-FZnKHU4cS_NS6RYjib",
+    "name": "Folder Sub",
+    "mimeType": "application/vnd.google-apps.folder"
+  }
+]
